@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 御定孝經注
-#+DATE: 2015-09-23 09:40:48
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:18:16.038281
+#+PROPERTY: ID KR1f0011
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 序
 <pb:KR1f0011_WYG_000-1a>¶
 御製孝經序¶
 　朕惟孝者首百行而為五倫之本天地所以成化聖人¶
@@ -49,6 +51,7 @@
 將見至徳要道由此而廣和睦無怨由此而成矣¶
 <pb:KR1f0011_WYG_000-3b>¶
 順治丙申仲春朢日序¶
+#+PROPERTY: JUAN 提要
 <pb:KR1f0011_WYG_000-4a>¶
 　欽定四庫全書　　　　經部六¶
 御定孝經注　　　　　　　孝經類¶
@@ -76,4 +79,3 @@
 　　　　隆四十六年八月恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
-
